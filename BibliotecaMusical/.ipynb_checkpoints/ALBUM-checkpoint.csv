@@ -1,0 +1,101 @@
+ID_ALBUM,NOME,TEMPO_DURACAO,QTD_FAIXAS,MINHA_NOTA,MEDIA_SPUT,ID_ARTISTA,ANO
+1,Heaven and Hell,39,8,5,4.3,1,
+2,Somewhere in Time,51,8,5,4.2,2,
+3,A Tear in the Fabric of Life,21,6,4.5,4,3,
+4,Quarters!,40,4,4.5,3.7,4,
+5,Walk Among Us,24,13,5,4.3,5,
+6,Fine Line,46,12,4.5,3.4,6,
+7,Virtual XI,53,8,1.5,2.5,2,
+8,Scream Bloody Gore,37,10,4.5,3.9,7,
+9,Spiritual Healing,42,8,4,3.9,7,
+10,Human,33,8,5,4.5,7,
+11,Individual Thought Patterns,40,10,4.5,4.3,7,
+12,Symbolic,50,9,5,4.6,7,
+13,Black Sabbath,42,8,5,4.4,1,
+14,Paranoid,41,8,5,4.5,1,1970
+15,Master of Reality,34,9,5,4.5,1,1971
+16,Vol.4,42,10,5,4,1,1972
+17,Sabbath Bloody Sabbath,42,8,5,4.2,1,1973
+18,Born Again,41,9,2,2.7,1,1983
+19,Iron Maiden,37,8,3.5,4.1,2,1980
+20,Killers,38,10,3.5,4,2,1981
+21,The Number of the Beast,40,8,5,4.4,2,1982
+22,Piece of Mind,46,9,4.5,4.2,2,1983
+23,Powerslave,50,8,4,4.5,2,1984
+24,Seventh Son of a Seventh Son,44,8,5,4.4,2,1988
+25,Fear of the Dark,58,12,3,3.3,2,1992
+26,The X Factor,71,11,4.5,2.8,2,1995
+27,Static Age,35,17,4.5,4.4,5,1997
+28,American Psycho,39,17,4.5,3.5,5,1997
+29,Famous Monsters,44,18,4.5,3.4,5,1999
+30,Dirt,57,13,5,4.4,8,1992
+31,Jane Doe,45,12,4.5,4.4,9,2001
+32,Axe to Fall,42,13,4,4.1,9,2009
+33,Bloodmoon: I,58,11,3.5,3.7,9,2021
+34,Bathory,26,10,4,3.9,10,1984
+35,The Reurn of the Darkness and Evil,36,12,3.5,3.8,10,1985
+36,Under the Sign of the Black Mark,35,10,4.5,4.2,10,1987
+37,Blood Fire Death,45,9,4.5,4.4,10,1988
+38,Twilight of the Gods,54,8,4.5,3.9,10,1991
+39,Twilight of the Thunder Gods,43,10,4,3.9,11,2008
+40,Surtur Rising,52,11,4,3.6,11,2011
+41,Deceiver of the Gods,47,10,4,3.5,11,2013
+42,Jomsviking,51,11,3,3.5,11,2016
+43,Berserker,56,12,3,3,11,2019
+44,Black Earth,35,10,3.5,3.6,12,1096
+45,Sigmata,54,12,4,3.7,12,1098
+46,Burning Bridges,42,9,4,3.9,12,1999
+47,Anthens of Rebellion,43,13,4,3.5,12,2003
+48,Doomsday Machine,49,11,4,3.6,12,2005
+49,War Eternal,50,14,3,3,12,2014
+50,Will to Power,53,13,2.5,2.7,12,2017
+51,Animals as Leaders,52,12,4,4.1,13,2009
+52,Weightless,46,12,3,3.6,13,2011
+53,The Joy of Motion,54,12,4,4,13,2014
+54,Rush,40,8,3,3,14,1974
+55,Fly by Night,37,8,4,3.7,14,1975
+56,Caress Of Steel,44,5,4.5,3.5,14,1975
+57,2112,38,6,5,4.3,14,1976
+58,A Farewll to Kings,37,6,4.5,4.3,14,1977
+59,Hemispheres,36,4,4.5,4.4,14,1978
+60,Permanent Waves,35,6,4.5,4.3,14,1980
+61,Moving Pictures,40,7,5,4.4,14,1981
+62,Roll the Bones,48,10,4,3.4,14,1991
+63,The,48,13,4,3.9,15,2013
+64,Makkuro,42,12,4,3.6,15,2020
+65,10,36,10,4.5,3.8,15,2020
+66,Jodeki,45,12,4,3.5,15,2021
+67,Hatful of Hollow,56,16,5,4.4,16,1984
+68,Louder Than Bombs,73,24,4,4.2,16,1987
+69,The Queen is Dead,37,10,5,4.4,16,1986
+70,The Smiths,45,11,4,4.1,16,1984
+71,Meat is Murder,39,9,3,3.9,16,1985
+72,The Division Bell,66,11,4.5,3.5,17,1994
+73,The Final Cut,46,13,2.5,3.2,17,1983
+74,The Wall,80,26,4,4,17,1979
+75,Animals,41,5,4.5,4.5,17,1977
+76,Wish You Were Here,44,5,5,4.6,17,1975
+77,The Dark Side of the Moon,42,10,5,4.6,17,1973
+78,Meddle,46,6,4.5,4.2,17,1971
+79,Atom Heart Mother,52,5,4,3.6,17,1970
+80,The Piper at the Gates of Dawn,41,11,4,4,17,1967
+81,In the Court of the Crimson King,44,5,5,4.6,18,1969
+82,Red,40,5,5,4.5,18,1974
+83,Discipline,61,11,4.5,4.2,18,1981
+85,Iowa,64,14,4.5,3.5,19,2000
+84,Slipknot,55,17,5,3.7,19,1999
+86,Vol.3 The Subliminal Verses,54,16,3,3.5,19,2004
+87,All Hope is Gone,61,13,4,3,19,2008
+88,.5: The Gray Chapter,63,14,3,3.1,19,2014
+89,We Are Not Your Kind,63,14,4,3.6,19,2019
+90,The Jester Race,54,14,4.5,4.3,20,1996
+91,Clayman,49,13,4,4,20,2000
+92,Whoracle,44,12,4,4.1,20,1997
+93,Come Clarity,48,13,3.5,3.6,20,2006
+94,"I, the Mask",50,12,3.5,2.6,20,2019
+95,Sabotage,43,8,4.5,4,1,1975
+96,Brave New World,67,10,4.5,4.1,2,2000
+97,A Matter of Life and Death,72,10,4.5,3.8,2,2006
+98,The Final Frontier,72,10,4,3.5,2,2010
+99,The Book of Souls,92,11,3.5,3.8,2,2015
+100,Senjutsu,81,10,3.5,3.5,2,2021
