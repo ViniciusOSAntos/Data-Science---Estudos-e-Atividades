@@ -2,7 +2,8 @@
 Repositório com objetivo de guardar as atividades relacionadas a Data Science pra referência futura.
 
 ## Projeto utiliza de:
-![AnacondaPython    ](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png =223×111)
+
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png " alt="Anaconda" width="223" height="111"/>
 
 **Linguagem:** 
 * Python
