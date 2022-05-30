@@ -7,6 +7,7 @@ Repositório com objetivo de guardar as atividades relacionadas a Data Science p
 **Linguagem:** 
 * Python
 * Distribuição Anaconda Python
+
 **Prinicipais Bibliotecas:** 
 1. Pandas
 2. Numpy 
