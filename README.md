@@ -13,6 +13,7 @@ Repositório com objetivo de guardar as atividades relacionadas a Data Science p
 3. Scikit-learn
 4. Matplotlib
 5. Seaborn
+
 **Modelagem dos Dados:** 
 
 * PostgreSQL
