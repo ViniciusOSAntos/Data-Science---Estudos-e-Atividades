@@ -3,6 +3,7 @@ Repositório com objetivo de guardar as atividades relacionadas a Data Science p
 
 ## Prjeto utiliza de:
 ![AnacondaPython    ](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
+
 **Linguagem:** 
 * Python
 * Distribuição Anaconda Python
