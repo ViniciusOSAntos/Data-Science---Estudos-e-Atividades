@@ -23,5 +23,5 @@ Repositório com objetivo de guardar as atividades relacionadas a Data Science p
 
 **Dashboards Atualizados**
 
-[PowerBi](linkMissing)
+[PowerBi]([linkMissing](https://app.powerbi.com/links/-I4cKsMJvh?ctid=59bfed5c-858a-44b3-9dab-762071d723a6&pbi_source=linkShare&bookmarkGuid=5d9a2626-6ca5-43ee-a37d-7b525cf1c544))
 [Tableu](linkMissing)
