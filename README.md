@@ -1,6 +1,9 @@
 # Data Science - Estudos e Atividades
 Repositório com objetivo de guardar as atividades relacionadas a Data Science pra referência futura.
 
+## Versionamento
+
+As pastas dividem as versões do projeto, com objetivo de serem o histórico da minha evolução na área de Data Science e no projeto em si.
 ## Projeto utiliza de:
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="223" height="111"/>
