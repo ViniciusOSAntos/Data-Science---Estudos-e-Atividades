@@ -8,8 +8,12 @@ class TrendingSpider(scrapy.Spider):
     start_urls = ['https://www.sputnikmusic.com/']
 
     def parse(self, response):
-        trending = response.xpath("//table[2]/tbody/tr[2]/td/table/tbody/tr")
+        cont = 1
+        trending = response.xpath("//tr/td[1][contains(@style, 'border-bottom:1px solid #ddd;')][not(contains(@width, '70%'))]")
         for trend in trending:
             yield{
-                'nome_banda': trend.xpath(".//a[@class='tooltip']/font[@color='#333333' and @size='2']/text()").get(),
+                'posicao': cont,
+                'nome_banda': trend.xpath("normalize-space(.//a[@class='tooltip']/font[@color='#333333' and @size='2']/text())").get(),
+                'nome_album': trend.xpath(".//a[@class='tooltip']/font[@color='#333333' and @size='2']/span/text()").get()
             }
+            cont = cont + 1
