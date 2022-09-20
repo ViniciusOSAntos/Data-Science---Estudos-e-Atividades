@@ -28,7 +28,7 @@ class AlbumSpider(scrapy.Spider):
         driver.find_element_by_xpath(
             '/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr/td[1]/form/table/tbody/tr[2]/td[2]/input').send_keys('TheNameless01')
         driver.find_element_by_xpath(
-            '/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr/td[1]/form/table/tbody/tr[3]/td[2]/input').send_keys('vasco10')
+            '/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr/td[1]/form/table/tbody/tr[3]/td[2]/input').send_keys('')
         driver.find_element_by_xpath(
             '/html/body/table/tbody/tr[2]/td/table[1]/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr/td[1]/form/table/tbody/tr[4]/td/input[7]').click()
 
